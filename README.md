@@ -4,8 +4,8 @@
 
 <div align="center">
 
-📌 Place Project Banner Here  
-(Example: ![AeroSense Banner](./assets/AeroSense_Banner.png))
+
+ ![AeroSense Banner](banner.png)
   
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)]()
 [![API](https://img.shields.io/badge/Data%20API-CPCB%20%7C%20WAQI-teal?style=for-the-badge&logo=apachespark)]()
